@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\for_angelina\cpp_project\lab_1\Debug\lab_1.exe
+\\Mac\Home\Desktop\for_angelina\cpp_project\lab_1\Debug\lab_1.pdb
